@@ -1,0 +1,4 @@
+allure-pytest==2.9.45
+dataclasses-json==0.5.7
+requests==2.28.1
+singleton-decorator==1.0.0
